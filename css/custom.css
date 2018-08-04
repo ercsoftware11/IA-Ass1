@@ -1,0 +1,60 @@
+/* Main Page Content */
+.header {
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    background-color: #2A2F33;
+}
+
+.header img {
+    float: left;
+}
+
+.header h3 {
+    margin-left: 75px;
+    margin-top: 5px;
+}
+
+.header-user p {
+    margin-top: 5px;
+    margin-right: 20px;
+    float: right;
+    color: #28a745;
+}
+
+main h2 {
+    margin-top: 20px;
+}
+
+body {
+    background-color: #424250;
+    color: white;
+}
+
+.container {
+    background-color: #4C535A;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding: 0px;
+}
+.container main {
+    padding: 10px;
+}
+
+.breadcrumb {
+    background-color: #4C535A;
+}
+
+.page-footer {
+    background-color: #2A2F33;
+}
+
+.page-footer p {
+    padding: 20px; 
+}
+
+nav {
+    background-color: #2A2F33 ;
+}
+
